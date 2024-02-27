@@ -1,6 +1,6 @@
 const Profile = () => {
     return(
-        <div className="Profile">
+        <div className="Profile" id="aboutmeSection">
             <h2 className="headTitle"></h2>
             <div className="myIcon">
                 <p>

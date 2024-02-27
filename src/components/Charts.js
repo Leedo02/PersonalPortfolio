@@ -1,6 +1,6 @@
 const Charts = () => {
     return(
-        <div className="Charts">
+        <div className="Charts" id="chartsSection">
             <div className="ChartsIn">
                 <div className="chartHead">
                     <h2 className="titleName">✏️기술스택</h2>

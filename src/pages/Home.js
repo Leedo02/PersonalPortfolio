@@ -7,6 +7,7 @@ const Home = () => {
     const clickBtn = () => {
         navigate('/main');
     };
+
     return (
         <div className="Home">
             <Header />
