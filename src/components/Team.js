@@ -54,18 +54,18 @@ const Team = () => {
                             <p className="projectBtn">
                                 <span>배포링크</span><br />
                                 <a
-                                    href="https://github.com/Leedo02/movieUI"
+                                    href="https://ezfit-b275f.web.app/open"
                                     target="_blank"
                                     rel="noreferrer noopener"
-                                >https://github.com/Leedo02/movieUI</a>
+                                >https://ezfit-b275f.web.app/open</a>
                             </p>
                             <p className="projectBtn">
                                 <span>리포지토리</span><br />
                                 <a
-                                    href="https://github.com/Leedo02/movieUI"
+                                    href="https://github.com/Leedo02/teamProject"
                                     target="_blank"
                                     rel="noreferrer noopener"
-                                >https://github.com/Leedo02/movieUI</a>
+                                >https://github.com/Leedo02/teamProject</a>
                             </p>                         </p>
                     </div>
                 </div>

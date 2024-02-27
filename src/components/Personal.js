@@ -22,12 +22,12 @@ const Personal = () => {
                         </p>
                         <div className="projectBtns">
                             <p className="projectBtn">
-                                <span>배포링크</span>
+                                <span>배포링크</span><br />
                                 <a
-                                    href="https://github.com/Leedo02/movieUI"
+                                    href="https://movieui-c4e72.web.app"
                                     target="_blank"
                                     rel="noreferrer noopener"
-                                >https://github.com/Leedo02/movieUI</a>
+                                >https://movieui-c4e72.web.app</a>
                             </p>
                             <p className="projectBtn">
                                 <span>리포지토리</span>
@@ -58,20 +58,20 @@ const Personal = () => {
                         </p>
                         <div className="projectBtns">
                             <p className="projectBtn">
-                                <span>배포링크</span>
+                                <span>배포링크</span><br />
                                 <a
                                     href="https://github.com/Leedo02/movieUI"
                                     target="_blank"
                                     rel="noreferrer noopener"
-                                >https://github.com/Leedo02/movieUI</a>
+                                >미완성</a>
                             </p>
                             <p className="projectBtn">
-                                <span>리포지토리</span>
+                                <span>리포지토리</span><br />
                                 <a
                                     href="https://github.com/Leedo02/MacUI"
                                     target="_blank"
                                     rel="noreferrer noopener"
-                                >https://github.com/Leedo02/MacUI</a>
+                                >미완성</a>
                             </p>
                         </div>
                     </div>
@@ -94,20 +94,20 @@ const Personal = () => {
                         </p>
                         <div className="projectBtns">
                             <p className="projectBtn">
-                                <span>배포링크</span>
+                                <span>배포링크</span><br />
                                 <a
-                                    href="https://github.com/Leedo02/movieUI"
+                                    href="https://ulsantrip.netlify.app"
                                     target="_blank"
                                     rel="noreferrer noopener"
-                                >https://github.com/Leedo02/movieUI</a>
+                                >https://ulsantrip.netlify.app</a>
                             </p>
                             <p className="projectBtn">
                                 <span>리포지토리</span>
                                 <a
-                                    href="https://github.com/Leedo02/movieUI"
+                                    href="https://github.com/Leedo02/ulsanTrip.git"
                                     target="_blank"
                                     rel="noreferrer noopener"
-                                >https://github.com/Leedo02/movieUI</a>
+                                >https://github.com/Leedo02/ulsanTrip.git</a>
                             </p>
                         </div>
                     </div>

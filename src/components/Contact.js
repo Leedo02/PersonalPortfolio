@@ -26,7 +26,10 @@ const Contact = () => {
                 {/* 깃허브 버튼 */}
                 <div className="conIco">
                     <p className="icoImg">
-                        <a href="https://github.com/Leedo02"><img src="/img/ico-github.svg" alt="깃허브" /></a>
+                        <a 
+                            href="https://github.com/Leedo02"
+                            target="_blank"
+                        ><img src="/img/ico-github.svg" alt="깃허브" /></a>
                     </p>
                     <p className="conTxt">
                         Github
@@ -41,7 +44,10 @@ const Contact = () => {
                 {/* 티스토리 버튼 */}
                 <div className="conIco">
                     <p className="icoImg">
-                        <a href="https://controlcva.tistory.com/"><img src="/img/ico-tistory.svg" alt="티스토리" /></a>
+                        <a 
+                            href="https://controlcva.tistory.com/"
+                            target="_blank"
+                        ><img src="/img/ico-tistory.svg" alt="티스토리" /></a>
                     </p>
                     <p className="conTxt">
                         Tistory
@@ -56,7 +62,10 @@ const Contact = () => {
                 {/* 이메일 버튼 */}
                 <div className="conIco">
                     <p className="icoImg">
-                        <a href="mailto:leedo030202@gmail.com"><img src="/img/ico-email.svg" alt="이메일" /></a>
+                        <a 
+                            href="mailto:leedo030202@gmail.com"
+                            target="_blank"
+                        ><img src="/img/ico-email.svg" alt="이메일" /></a>
                     </p>
                     <p className="conTxt">
                         e-mail
